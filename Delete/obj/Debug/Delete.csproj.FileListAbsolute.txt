@@ -1,0 +1,12 @@
+D:\Lete\Visual Studio\io.github.lete114\Delete\Delete\obj\Debug\Delete.csprojResolveAssemblyReference.cache
+D:\Lete\Visual Studio\io.github.lete114\Delete\Delete\obj\Debug\Delete.Main.resources
+D:\Lete\Visual Studio\io.github.lete114\Delete\Delete\obj\Debug\Delete.csproj.GenerateResource.Cache
+D:\Lete\Visual Studio\io.github.lete114\Delete\Delete\bin\Debug\乐特自制删除空目录.exe.config
+D:\Lete\Visual Studio\io.github.lete114\Delete\Delete\bin\Debug\乐特自制删除空目录.exe
+D:\Lete\Visual Studio\io.github.lete114\Delete\Delete\bin\Debug\乐特自制删除空目录.pdb
+D:\Lete\Visual Studio\io.github.lete114\Delete\Delete\obj\Debug\乐特自制删除空目录.Properties.Resources.resources
+D:\Lete\Visual Studio\io.github.lete114\Delete\Delete\obj\Debug\乐特自制删除空目录.exe
+D:\Lete\Visual Studio\io.github.lete114\Delete\Delete\obj\Debug\乐特自制删除空目录.pdb
+D:\Lete\GitHub\乐特自制实用工具\C#\Delete\Delete\bin\Debug\乐特自制删除空目录.exe.config
+D:\Lete\GitHub\乐特自制实用工具\C#\Delete\Delete\obj\Debug\乐特自制删除空目录.exe
+D:\Lete\GitHub\乐特自制实用工具\C#\Delete\Delete\obj\Debug\乐特自制删除空目录.pdb
